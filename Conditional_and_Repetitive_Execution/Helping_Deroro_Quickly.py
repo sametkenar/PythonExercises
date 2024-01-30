@@ -1,5 +1,5 @@
 # This solution uses is an optimization technique called
-# memorization which is NOT in the context of this course.
+# memorization.
 
 W = int(input())
 A = int(input())
