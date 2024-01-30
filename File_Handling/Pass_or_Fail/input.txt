@@ -1,0 +1,2 @@
+Gorkem Yildiz,70,90,50
+Naz Kaya,100,80,20

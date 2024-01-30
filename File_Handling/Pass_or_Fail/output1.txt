@@ -1,0 +1,3 @@
+Bilgin Irmak,Fail
+Aleyna Catak,Pass
+Bayram Durak,Pass
